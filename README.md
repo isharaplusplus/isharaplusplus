@@ -11,9 +11,6 @@ Hello there ✌️,
 
 ### A passionate tech enthusiast with a multifaceted career spanning several pivotal roles in the technology landscape. With a relentless curiosity and a penchant for innovation, I've embarked on a journey to explore, create, and optimize in the world of software and data. Here's a glimpse into my diverse skill set and contributions across various domains:
 
-#### 🚀 Software Engineer :
-I thrive in the world of coding, where I craft elegant, scalable, and efficient software solutions. My code serves as the backbone of digital experiences, and I love solving complex problems with lines of logic. 
-
 #### 🌐 Full Stack Developer :
 As a Full Stack Developer, I thrive on creating end-to-end solutions. I'm equally at home designing sleek user interfaces as I am crafting robust back-end systems. My code is not just functional; it's elegant and efficient.
 

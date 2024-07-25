@@ -1,9 +1,11 @@
 
-Hello Guys ✌️, 
-
-[![MasterHead](https://github.com/ishararaviget9/ishararaviget9/blob/main/imageidea.png?raw=true)](https://github.com/ishararaviget9)
+Hello there ✌️, 
 
 ![snake gif](https://github.com/ishararaviget9/ishararaviget9/blob/output/github-contribution-grid-snake-dark.svg)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/user-attachments/assets/f7e314b9-b4e6-44d4-8993-b8eea09ca9a7" alt="drawing" width="100"/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
